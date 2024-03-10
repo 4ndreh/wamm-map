@@ -535,10 +535,6 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":1557,
-         "source":"..\/..\/..\/..\/Users\/andre\/Desktop\/WA_Tables.tsx"
-        }, 
-        {
          "columns":6,
          "firstgid":1827,
          "image":"tilesets\/WA_Logo_Long.png",
@@ -576,23 +572,6 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":24,
-         "firstgid":2956,
-         "image":"..\/..\/..\/..\/Users\/andre\/Desktop\/dboquop-e905a3a8-5010-4b88-873e-120408ca0fa6.png",
-         "imageheight":768,
-         "imagewidth":768,
-         "margin":0,
-         "name":"RMMV_Furniture_RTP",
-         "spacing":0,
-         "tilecount":576,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "firstgid":3532,
-         "source":"..\/..\/..\/..\/Users\/andre\/Desktop\/RMMV_Furniture_RTP.tsx"
         }],
  "tilewidth":32,
  "type":"map",
