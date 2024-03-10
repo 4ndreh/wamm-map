@@ -572,6 +572,19 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":24,
+         "firstgid":2956,
+         "image":"tilesets\/RMMV_Furniture_RTP.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"RMMV_Furniture_RTP",
+         "spacing":0,
+         "tilecount":576,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
